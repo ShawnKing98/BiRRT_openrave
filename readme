@@ -1,2 +1,0 @@
-This project doesn't need to install any extra package, I write most things from scratch myself.
-So just run demo.py and follow the instruction, you'll see the planner searching in the environment and finally execute the trajectory.
